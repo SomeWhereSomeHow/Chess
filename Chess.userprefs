@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5059EFE7-02E5-4632-9C46-3387E7C378D9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Chess/Figures/Figures.cs">
+    <Files>
+      <File FileName="Chess/Figures/Figures.cs" Line="12" Column="1" />
+      <File FileName="Chess/Figures/Position.cs" Line="15" Column="32" />
+      <File FileName="Chess/ViewController.cs" Line="1" Column="1" />
+      <File FileName="Chess/ViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Chess PreferredExecutionTarget="Test1" />
+  <MultiItemStartupConfigurations />
+</Properties>
